@@ -13,7 +13,7 @@ from Figures import Gantt_Chart_1
 app=dash.Dash()
 
 app.css.append_css({"external_url": 'https://codepen.io/chriddyp/pen/bWLwgP.css'})
-app.title="Karen_Hovhanniysan's_App"
+app.title="KarenHovhannisyan's App"
 app.layout=html.Div([
 	#part 1
 	html.Div([
