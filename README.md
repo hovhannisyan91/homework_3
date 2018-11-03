@@ -1,2 +1,2 @@
-# homework_3
+# Python dashbourds
 Dash, Plot.Ly
